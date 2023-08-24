@@ -75,8 +75,8 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-cd desired-folder
-git clone https://github.com/Rishi-Mishra0704/Carhub.git
+<li>cd desired-folder</li>
+<li>git clone https://github.com/Rishi-Mishra0704/Carhub.git</li>
 
 ### Install
 
