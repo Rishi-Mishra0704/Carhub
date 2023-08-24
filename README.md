@@ -34,9 +34,6 @@
 **[Carhub]** 
 THE SITE WAS BUILT WITH NEXTJS AND TAILWINDCSS. IT IS A CAR DEALERSHIP SITE WHERE YOU CAN SEE ALL THE CARS AVAILABLE AND THEIR DETAILS. IT HAS A SPECIAL FEATURE NAMELY SEARCH BAR TO HELP YOU FIND YOUR CAR EASILY. IT WAS BUILT TO TEST MY SKILLS IN NEXTJS AND TAILWINDCSS
 
-## 🛠 Built With <a name="built-with">HTMLand CSS</a>
-
-### Tech Stack <a name="tech-stack"></a>
 
 > This project is build purely by html and vanilla css and vanilla js.
 ## 🚀 Live Demo <a name="live-demo"></a>
